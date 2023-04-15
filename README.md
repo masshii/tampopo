@@ -30,3 +30,13 @@ PHP、Laravel Framework 10.5.1
 ## ER図
 
 ![image](https://user-images.githubusercontent.com/106829132/232240834-7f0b3966-f635-4b44-a431-3e0f8566e1c1.png)
+
+## 環境構築
+
+ライブラリインストールの為にcomposer installコマンドを実行してください。
+データベースの取得はsail artisan migrateコマンドを実行してください。
+.envファイルは別途ご用意ください。
+
+## アカウントの種類
+
+管理者、一般ユーザー、テストユーザー
