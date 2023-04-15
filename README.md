@@ -27,3 +27,6 @@ PHP、Laravel Framework 10.5.1
 
 ![image](https://user-images.githubusercontent.com/106829132/232238636-e5a76c0b-7114-4272-8ffe-558d0139e9e4.png)
 
+## ER図
+
+![image](https://user-images.githubusercontent.com/106829132/232240834-7f0b3966-f635-4b44-a431-3e0f8566e1c1.png)
