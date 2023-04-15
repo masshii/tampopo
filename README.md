@@ -18,3 +18,12 @@ Xserver
 ## 機能一覧
 
 ![image](https://user-images.githubusercontent.com/106829132/232238352-b8be7524-8dfb-49db-ada5-21820250cbc3.png)
+
+## 使用技術(実行環境)
+
+PHP、Laravel Framework 10.5.1
+
+## テーブル設計
+
+![image](https://user-images.githubusercontent.com/106829132/232238636-e5a76c0b-7114-4272-8ffe-558d0139e9e4.png)
+
