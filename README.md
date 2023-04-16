@@ -17,11 +17,30 @@ Xserver
 
 ## 機能一覧
 
-![image](https://user-images.githubusercontent.com/106829132/232238352-b8be7524-8dfb-49db-ada5-21820250cbc3.png)
-
+・ユーザー側
+　◦新規登録、ログイン機能、ログアウト機能
+　◦メール認証機能 
+　◦アバター機能 
+　◦アカウント編集機能
+　◦コメント機能
+　◦いいね機能
+　◦既読機能
+　◦お問い合わせ機能 
+ 
+・管理者側
+　◦アカウント編集機能、削除機能
+　◦お知らせ投稿、編集、削除機能
+　◦生徒登録、編集、削除機能
+ 
+ ・ページネーション機能
+ ・Gate、Policy機能
+ ・Notification機能
+ 
 ## 使用技術(実行環境)
 
-PHP、Laravel Framework 10.5.1
+・PHP、Laravel Framework 10.5.1
+・MYSQL 8.0.32
+・Docker/Docker-compose
 
 ## テーブル設計
 
@@ -34,7 +53,7 @@ PHP、Laravel Framework 10.5.1
 ## 環境構築
 
 ライブラリインストールの為にcomposer installコマンドを実行してください。
-データベースの取得はsail artisan migrateコマンドを実行してください。
+データベースの取得はphp artisan migrateコマンドを実行してください。
 .envファイルは別途ご用意ください。
 
 ## アカウントの種類
