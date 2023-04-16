@@ -1,7 +1,7 @@
 # たんぽぽ書道教室
 
 書道教室の先生と保護者を繋ぐ連絡用webアプリ
-![image](https://user-images.githubusercontent.com/106829132/232237535-2becef9d-f075-4d9e-886d-f44a74ab6f40.png)
+![image](https://user-images.githubusercontent.com/106829132/232290303-3cba2764-6c5c-4425-a67a-8b0232ffb519.png)
 
 ## 作成した目的
 
@@ -53,11 +53,13 @@ Xserver
  
 ## 使用技術(実行環境)
 
-・PHP、Laravel Framework 10.5.1
+・ OS : Docker/Docker-compose
 
-・MYSQL 8.0.32
+・ 言語 : PHP
 
-・Docker/Docker-compose
+・ フレームワーク : Laravel Framework 10.5.1
+
+・ データベース : MYSQL 8.0.32
 
 ## テーブル設計
 
